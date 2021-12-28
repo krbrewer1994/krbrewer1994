@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krbrewer1994
-- 👀 I’m interested in ...{Java}; Python and CyberSecurity
+- 👀 I’m interested in ...{Java}; #python: and CyberSecurity
 - 🌱 I’m currently learning ...JAVA & Python
 - 💞️ I’m looking to collaborate on ...Cyber security coding labs and exercises
 - 📫 How to reach me ...Krstn_brewer@yahoo.com
